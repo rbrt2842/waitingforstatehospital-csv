@@ -1,0 +1,15 @@
+✅  Found 123 people awaiting state hospital transfer.
+   Average wait: 322 days
+   Saved to: pulaskijailjsons/state_hospital_waitlist.csv
+
+Top 10 longest waits:
+  1367 days  LEWIS, CALEB MATTHEW
+  1247 days  WILLIAMS, COREY
+  1022 days  BEMIS, ROBERT
+   912 days  FOOTS, THOMAS ERWIN
+   849 days  STEWART, GREGORY EUGENE
+   835 days  WILLIAMS, MICHAEL FITZGERALD
+   820 days  WILLIS, STEVEN P
+   800 days  PIERCE, BRIAN S
+   784 days  GARZA, BRITNEY ARIELLE
+   736 days  COHENS, RYAN WAYNE
